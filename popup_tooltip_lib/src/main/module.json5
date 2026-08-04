@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "popup_tooltip_lib",
+    "type": "har",
+    "deviceTypes": [
+      "wearable"
+    ]
+  }
+}
